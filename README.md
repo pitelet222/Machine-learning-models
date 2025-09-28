@@ -1,4 +1,4 @@
-[beautiful_readme.md](https://github.com/user-attachments/files/22581212/beautiful_readme.md)
+
 # 🤖 Machine Learning Models
 
 > A friendly place to learn and share machine learning implementations
